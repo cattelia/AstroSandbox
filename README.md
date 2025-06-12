@@ -9,6 +9,7 @@ npm create astro@latest -- --template minimal
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+> ## I am a seasoned astronaut but I like this file as it is, so here it stays.
 
 ## 🚀 Project Structure
 
