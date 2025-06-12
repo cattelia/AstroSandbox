@@ -47,3 +47,8 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+# So they want me to deploy to 🔰 `Netlify` but I want 🌐 `Cloudflare`
+## 🔰 `Netlify`
+They have a free versoin and I can deploy quickly from Github repos, which is exactly where I will want future code to live for CI/CD development. Currently, the AstroSandbox lives under, `incrementu.netlify.com`. 
+
